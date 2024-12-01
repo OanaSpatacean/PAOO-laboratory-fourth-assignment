@@ -1,0 +1,3 @@
+/home/oana718/Desktop/Object-Oriented-Application-Design-Laboratory/PAOO-laboratory-fourth-assignment/build/CMakeFiles/tema4-PAOO.dir
+/home/oana718/Desktop/Object-Oriented-Application-Design-Laboratory/PAOO-laboratory-fourth-assignment/build/CMakeFiles/edit_cache.dir
+/home/oana718/Desktop/Object-Oriented-Application-Design-Laboratory/PAOO-laboratory-fourth-assignment/build/CMakeFiles/rebuild_cache.dir
